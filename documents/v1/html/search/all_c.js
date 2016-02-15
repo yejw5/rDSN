@@ -5,5 +5,7 @@ var searchData=
   ['performance_20counters',['Performance Counters',['../group__perf-counter.html',1,'']]],
   ['perf_5fcounter_5f',['perf_counter_',['../classdsn_1_1perf__counter__.html',1,'dsn']]],
   ['profiler',['profiler',['../classdsn_1_1tools_1_1profiler.html',1,'dsn::tools']]],
-  ['profiler',['Profiler',['../group__profiler.html',1,'']]]
+  ['profiler',['Profiler',['../group__profiler.html',1,'']]],
+  ['performance_20turning',['Performance Turning',['../group__tools-perf.html',1,'']]],
+  ['programming',['Programming',['../group__tools-program.html',1,'']]]
 ];

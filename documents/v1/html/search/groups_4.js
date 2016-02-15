@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['global_20checker',['Global Checker',['../group__app-checker.html',1,'']]]
+  ['fault_20injector',['Fault Injector',['../group__fault-injector.html',1,'']]],
+  ['file_20operations',['File Operations',['../group__file.html',1,'']]]
 ];

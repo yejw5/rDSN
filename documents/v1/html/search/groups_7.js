@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['memory_20management',['Memory Management',['../group__memory.html',1,'']]]
+  ['language_20reference',['Language Reference',['../group__l3-ref.html',1,'']]],
+  ['logging_20service',['Logging Service',['../group__logging.html',1,'']]]
 ];

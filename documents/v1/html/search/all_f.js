@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['tron_3a_20declarative_20service_20or_20computation_20flows_20_28layer_203_29',['TRON: Declarative service or computation flows (layer 3)',['../group__layer3-dev.html',1,'']]],
+  ['tron_3a_20compose_20service_20and_20computation_20flows_20_28layer_203_29',['TRON: Compose Service and Computation Flows (layer 3)',['../group__dev-layer3.html',1,'']]],
   ['thread_20synchornization',['Thread Synchornization',['../group__sync.html',1,'']]],
   ['task_5fcode',['task_code',['../classdsn_1_1task__code.html',1,'dsn']]],
   ['task_5ftype_5faio',['TASK_TYPE_AIO',['../group__exec-model.html#ggaaef99f60d299e960b5910c1a19f36312a169c3edaf32719600233fef3f987fa02',1,'api_task.h']]],
@@ -15,7 +15,7 @@ var searchData=
   ['tool_5fapp',['tool_app',['../classdsn_1_1tools_1_1tool__app.html',1,'dsn::tools']]],
   ['tool_5fbase',['tool_base',['../classdsn_1_1tools_1_1tool__base.html',1,'dsn::tools']]],
   ['toollet',['toollet',['../classdsn_1_1tools_1_1toollet.html',1,'dsn::tools']]],
-  ['tools',['Tools',['../group__tools.html',1,'']]],
+  ['test',['Test',['../group__tools-test.html',1,'']]],
   ['tracer',['Tracer',['../group__tracer.html',1,'']]],
   ['tracer',['tracer',['../classdsn_1_1tools_1_1tracer.html',1,'dsn::tools']]],
   ['transient_5fsafe_5ftask',['transient_safe_task',['../classdsn_1_1transient__safe__task.html',1,'dsn']]],

@@ -143,5 +143,7 @@ var searchData=
   ['dsn_5ftransient_5ffree',['dsn_transient_free',['../group__memory.html#gacd455f28ec18c2350c31ab86e15cf0e2',1,'api_utilities.h']]],
   ['dsn_5ftransient_5fmalloc',['dsn_transient_malloc',['../group__memory.html#ga0cc21be28a546c14b7b7648c95d643d0',1,'api_utilities.h']]],
   ['dsn_5furi_5fbuild',['dsn_uri_build',['../group__rpc-addr.html#gac89d502839a163a25890b060407eff6e',1,'api_layer1.h']]],
-  ['dsn_5furi_5fdestroy',['dsn_uri_destroy',['../group__rpc-addr.html#ga19b4bc5711c9c867a64db6af7aa4a2f8',1,'api_layer1.h']]]
+  ['dsn_5furi_5fdestroy',['dsn_uri_destroy',['../group__rpc-addr.html#ga19b4bc5711c9c867a64db6af7aa4a2f8',1,'api_layer1.h']]],
+  ['debug',['Debug',['../group__tools-debug.html',1,'']]],
+  ['deployment',['Deployment',['../group__tools-deploy.html',1,'']]]
 ];
