@@ -5,6 +5,8 @@ scripts_dir=`pwd`/scripts/$os
 
 function usage()
 {
+    
+    
     echo "usage: run.sh <command> [<args>]"
     echo
     echo "Command list:"
